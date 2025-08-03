@@ -52,9 +52,13 @@ This is a modern, responsive, and animated personal portfolio website created as
 1. **Clone the repository**
 
 git clone https://github.com/Ibraheem2513/CodeAlpha_MyPortfolio.git
+
 Open the folder
+
 cd CodeAlpha_MyPortfolio
+
 Open index.html in your browser
+
 Or use Live Server extension in VS Code for best results.
 
 🙏 Acknowledgement
